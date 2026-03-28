@@ -70,7 +70,4 @@ OCR --> PLAN
 PLAN --> CRITIC & GEN
 CRITIC --> PILLOW
 GEN --> PILLOW
-PILLOW --> META# alem-smm-pro
-# alem-smm-pro
-# alem-smm-pro
-# alem-smm-pro
+PILLOW --> META
